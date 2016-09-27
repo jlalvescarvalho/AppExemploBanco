@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppExemploBanco</string>
+    <string name="Nome">Nome: </string>
+    <string name="Sobrenome">Sobrenome: </string>
+    <string name="BtSalvar">Salvar</string>
+    <string name="BtReculperar">Visualizar</string>
+</resources>
